@@ -51,12 +51,12 @@ A visual email sequence builder that lets users create and schedule automated em
 
 ---
 
-**Backend Setup**
-cd backend
-npm install
+### Backend Setup
+- cd backend
+- npm install
 
-**Frontend Setup**
-cd frontend
-npm install
+### Frontend Setup
+- cd frontend
+- npm install
 npm run dev
 ---
