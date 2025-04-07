@@ -3,8 +3,8 @@
 A visual email sequence builder that lets users create and schedule automated email campaigns using a drag-and-drop flow editor. Built with the MERN stack, React Flow, Agenda.js, and Nodemailer.
 ---
 
-## Features
-###  Frontend
+## 🚀 Features
+### 🔧 Frontend
 - Visual drag-and-drop flow using **React Flow**
 - Node types: Cold Email, Delay, Lead Source
 - Editable nodes with modals (To, Subject, Body, Delay time, etc.)
@@ -12,7 +12,7 @@ A visual email sequence builder that lets users create and schedule automated em
 - Collapsible sidebar with node creation
 - Authentication: Login & Register (JWT-based)
 
-###   Backend
+### 🛠️ Backend
 - REST API using **Express & TypeScript**
 - MongoDB for persistence
 - Job scheduling with **Agenda.js**
@@ -23,7 +23,7 @@ A visual email sequence builder that lets users create and schedule automated em
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 - React + Vite
