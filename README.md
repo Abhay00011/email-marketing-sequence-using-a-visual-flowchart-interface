@@ -58,5 +58,5 @@ A visual email sequence builder that lets users create and schedule automated em
 ### Frontend Setup
 - cd frontend
 - npm install
-npm run dev
+- npm run dev
 ---
